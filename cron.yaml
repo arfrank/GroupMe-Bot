@@ -1,0 +1,4 @@
+cron:
+-   description: 6 minute interval cron job
+    url: /cron
+    schedule: every 24 hours synchronized
